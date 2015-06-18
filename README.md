@@ -4,7 +4,7 @@ A Secret encapsulates a function that accepts a single integer parameter and ret
 Assume you are going to ship this code. Use your judgement to determine what you need to include. Document any assumptions or choices you make in your implementation. Also, include an explanation of your choice of language.
 
 #Documentation
-See index.html in the "Documentation" folder for Javadoc os this solution.
+To view documentation you will need to download the "Documentation" folder. Once downloaded, open index.html for Javadoc on this solution.
 
 #Implementation
 See Secret.java in the "Implementation" folder.
